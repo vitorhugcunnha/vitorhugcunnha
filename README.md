@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img src="![Image](https://github.com/user-attachments/assets/0931961f-c62a-434b-82b5-0c42f0026eae)">
+![Image](https://github.com/user-attachments/assets/0931961f-c62a-434b-82b5-0c42f0026eae)
 
 <br>
 <br>
