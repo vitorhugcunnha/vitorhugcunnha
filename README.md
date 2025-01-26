@@ -6,7 +6,7 @@
   </a>
 </div>
 
-![Image](https://github.com/user-attachments/assets/0931961f-c62a-434b-82b5-0c42f0026eae)
+![Image](https://github.com/user-attachments/assets/a7483cc8-90a3-4874-a6d0-0d00a338e6ab)
 
 <br>
 <br>
