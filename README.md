@@ -14,10 +14,10 @@
 <br>
 <br>
 
-  <li><h4>Working at Whirpool - Information System Dev Programmer 🚿</h4></li>
-  <li><h4>Software Engineering Student 💻</h4></li>
-  <li><h4>Objective of having opportunities to work abroad 🌟</h4></li>
-  <li><h4>Software Development 🎧</h4></li>
+  <li>Working at Whirpool - Information System Dev Programmer 🚿</li>
+  <li>Software Engineering Student 💻</h4></li>
+  <li>Objective of having opportunities to work abroad 🌟</li>
+  <li>Software Development 🎧</li>
 
 
 
