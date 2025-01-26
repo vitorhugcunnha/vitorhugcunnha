@@ -7,7 +7,7 @@
 </div>
 
 
-<img align="center" alt="" src="./src/Dev.gif">
+<img align-items="center" alt="" src="./src/Dev.gif">
 
 
 
