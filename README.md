@@ -38,9 +38,9 @@
 
 <div align="center" >
   
-![vitorhugcunnha](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugcunnha&layout=compact&theme=dark)
+[![vitorhugcunnha](https://github-readme-stats.vercel.app/api?username=vitorhugcunnha&theme=radical)]
 
-[![vitorhugcunnha](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugcunnha&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![vitorhugcunnha](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugcunnha&hide=html&layout=compact&theme=radical)]
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0209&height=120&section=footer"/>
