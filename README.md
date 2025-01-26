@@ -21,4 +21,8 @@
 
 <hr>
 
+<h1>Minhas Linguagens! ⛑️</h1>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0209&height=120&section=footer"/>
