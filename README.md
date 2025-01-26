@@ -13,12 +13,11 @@
 
 <br>
 <br>
-<div size=40>
+
   <li>Working at Whirpool - Information System Dev Programmer 🚿</li>
   <li>Software Engineering Student 💻</li>
   <li>Objective of having opportunities to work abroad 🌟</li>
-  <li>Software Development 🎧</li>
-</div>
+  <li size=22>Software Development 🎧</li>
 
 
 
