@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+
 ## Hi there 👋
 
 <li>Working at Whirpool - Information System Dev Programmer 🚿</li>
