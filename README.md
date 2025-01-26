@@ -7,7 +7,7 @@
 </div>
 
 
-<div align="center" src="src/Desenvolvedor De Softwares (1).gif"></div>
+<div align="center" src="./src/Desenvolvedor De Softwares (1).gif"></div>
 
 
 
