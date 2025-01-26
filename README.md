@@ -6,9 +6,9 @@
   </a>
 </div>
 
-
+<div align="center">
 <img align="center" src="./src/Dev.gif">
-
+</div>
 
 
 <br>
@@ -32,4 +32,15 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<hr>
+
+<h1>Progresso! 🎲</h1>
+
+<div align="center" >
+  
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0209&height=120&section=footer"/>
