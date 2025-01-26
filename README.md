@@ -19,8 +19,6 @@
   <li>Objective of having opportunities to work abroad 🌟</li>
   <li>Software Development 🎧</li>
 
-
-
-
+<hr>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0209&height=120&section=footer"/>
