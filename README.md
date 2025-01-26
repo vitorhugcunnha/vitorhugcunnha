@@ -8,11 +8,11 @@
 
 <div align="center">
 
-[Image](https://github.com/user-attachments/assets/a7483cc8-90a3-4874-a6d0-0d00a338e6ab)
+<img>[Image](https://github.com/user-attachments/assets/a7483cc8-90a3-4874-a6d0-0d00a338e6ab)</img>
 
 </div>
 
-aaa
+
 <br>
 <br>
 <li>Working at Whirpool - Information System Dev Programmer 🚿</li>
