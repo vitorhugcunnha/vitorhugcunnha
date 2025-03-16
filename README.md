@@ -36,10 +36,7 @@
 <h1>Progresso! 🎲</h1>
 
 <div align="center" >
-  
-[![vitorhugcunnha](https://github-readme-stats.vercel.app/api?username=vitorhugcunnha&theme=radical)]
 
-[![vitorhugcunnha](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugcunnha&hide=html&layout=compact&theme=radical)]
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0209&height=120&section=footer"/>
