@@ -6,15 +6,8 @@
   </a>
 </div>
 
-<div align="center">
-<img align="center" src="./src/Dev.gif">
-</div>
-
-
 <br>
 <br>
-
-  <li>Working at Whirpool - Information System Dev Programmer 🚿</li>
   <li>Software Engineering Student 💻</h4></li>
   <li>Objective of having opportunities to work abroad 🌟</li>
   <li>Software Development 🎧</li>
